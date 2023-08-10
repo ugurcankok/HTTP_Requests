@@ -10,5 +10,5 @@ amount = int(input(f"How much money {exchange_type}: "))
 result = requests.get(api_url + exchange_type)
 result = json.loads(result.text)
 
-print(f"{exchange_type} = {result['rates'][currency_received]} {currency_received}")
+print(f"1 {exchange_type} = {result['rates'][currency_received]} {currency_received}")
 print(f"{amount} {exchange_type} = {amount * result['rates'][currency_received]} {currency_received}")
