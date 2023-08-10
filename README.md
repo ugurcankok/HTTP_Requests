@@ -9,3 +9,5 @@ In this repository, you will find my works in ***src*** folder:
 * [Weather API](https://github.com/ugurcankok/HTTP_Requests/tree/master/src/Weather%20API)
 
 * [News API](https://github.com/ugurcankok/HTTP_Requests/tree/master/src/News%20API)
+
+* [Github API](https://github.com/ugurcankok/HTTP_Requests/tree/master/src/Github%20API)
